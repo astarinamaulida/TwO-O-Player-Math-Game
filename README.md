@@ -10,7 +10,7 @@ Have fun playing!
 
 *The game demo*
 
-!["Demo game"]()
+!["Demo game"](https://github.com/astarinamaulida/TwO-O-Player-Math-Game/blob/master/public/demo_game.gif?raw=true)
 
 ## Setup
 
