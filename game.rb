@@ -67,7 +67,7 @@ class Game
   # GAME ENDING
   def end_game
     puts "-------------GAME OVER-------------"
-    puts "#{@current_player.name} is the winner!"
+    puts "#{@current_player.name} is the winner with score of #{@current_player.life}/3!"
     puts "Play again? [Enter 'Y' to continue]"
     if (gets.chomp == 'Y')
       start_game
